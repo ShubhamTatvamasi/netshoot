@@ -14,6 +14,10 @@ Get inside `netshoot` pod:
 kubectl exec -it netshoot -- bash
 ```
 
+```bash
+cat /etc/resolv.conf
+```
+
 ---
 
 ### Docker
