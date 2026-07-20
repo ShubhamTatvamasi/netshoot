@@ -14,11 +14,6 @@ Get inside `netshoot` pod:
 kubectl exec -it netshoot -- bash
 ```
 
-Look all search doamins:
-```bash
-cat /etc/resolv.conf
-```
-
 Clean-up:
 ```bash
 kubectl delete pod netshoot
