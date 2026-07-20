@@ -19,6 +19,11 @@ Look all search doamins:
 cat /etc/resolv.conf
 ```
 
+Clean-up:
+```bash
+kubectl delete pod netshoot
+```
+
 ---
 
 ### Docker
