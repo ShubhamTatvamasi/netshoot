@@ -5,3 +5,6 @@ Look all nameserver & search domains:
 cat /etc/resolv.conf
 ```
 
+```bash
+systemctl status NetworkManager
+```
