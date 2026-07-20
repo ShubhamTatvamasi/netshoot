@@ -14,6 +14,7 @@ Get inside `netshoot` pod:
 kubectl exec -it netshoot -- bash
 ```
 
+Look all search doamins:
 ```bash
 cat /etc/resolv.conf
 ```
